@@ -1,0 +1,30 @@
+{
+  "name": "mathjs-playground",
+  "version": "0.0.0",
+  "description": "Playground for extensions to Mathjs",
+  "main": "playground.js",
+  "scripts": {
+    "test": "washington playground"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xaviervia/mathjs-playground"
+  },
+  "keywords": [
+    "mathjs",
+    "test",
+    "playground",
+    "matrix",
+    "mathematics"
+  ],
+  "author": "Xavier Via <fernando.via@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaviervia/mathjs-playground/issues"
+  },
+  "homepage": "https://github.com/xaviervia/mathjs-playground",
+  "dependencies": {
+    "mathjs": "^0.25.0",
+    "washington": "^0.4.1"
+  }
+}
